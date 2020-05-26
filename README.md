@@ -27,3 +27,5 @@ npm run build
 ```
 npm run lint
 ```
+
+P.S Not supporting debugging :(
