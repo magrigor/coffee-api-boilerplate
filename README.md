@@ -1,4 +1,4 @@
-## Typescript Node.js Api Boilerplate
+## Coffeescript Node.js Api Boilerplate
 
 Clone the repository
 Install dependencies
