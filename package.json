@@ -19,7 +19,6 @@
     "@fellow/eslint-plugin-coffee": "0.4.13",
     "coffeescript": "2.5.1",
     "eslint": "7.1.0",
-    "eslint-plugin-coffeescript": "1.0.0",
     "nodemon": "2.0.4",
     "rimraf": "3.0.2"
   }
