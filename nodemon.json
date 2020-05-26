@@ -1,0 +1,12 @@
+{
+  "watch": [ "src" ],
+  "ext": ".coffee,.js,.json",
+  "ignore": [
+    "**/unit-test/*.test.coffee",
+    "**/unit-test/*.mock.coffee",
+    "src/**/*.spec.coffee",
+    "node_modules/"
+  ],
+  "delay": "2500",
+  "exec": "npm run build && node ./dist/index.js"
+}
